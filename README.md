@@ -1,8 +1,6 @@
 # Digit-recognition-system-using-HMM
-========================================================================
-    CONSOLE APPLICATION : 234101005_DigitRecognition Project Overview
-========================================================================
 
+**CONSOLE APPLICATION : 234101005_DigitRecognition Project Overview**
 AppWizard has created this 234101005_DigitRecognition application for you.
 
 This file contains a summary of what you will find in each of the files that
